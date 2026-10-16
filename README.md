@@ -34,10 +34,9 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Miro](https://img.shields.io/badge/Miro-D3D3D3?style=for-the-badge&logo=miro&logoColor=black)](https://miro.com/)
 [![Draw.io](https://img.shields.io/badge/Draw.io-000000?style=for-the-badge&logo=drawio&logoColor=white)](https://app.diagrams.net/)
-[![Swagger](https://img.shields.io/badge/Swagger-8A6D3B?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
-[![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.org/)  
+[![Swagger](https://img.shields.io/badge/Swagger-8A6D3B?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/) 
 
-Также активно использую: **UML, BPMN** — моделирование процессов и взаимодействий.
+Также активно использую: **UML, BPMN**- моделирование процессов и взаимодействий.
 
 ## Контакты
 
